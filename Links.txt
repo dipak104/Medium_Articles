@@ -2,3 +2,13 @@ https://towardsdatascience.com/word-embeddings-and-document-vectors-when-in-doub
 https://medium.com/skilai/to-see-is-to-believe-visualizing-the-training-of-machine-learning-models-664ef3fe4f49
 https://medium.com/schkn/why-use-k-means-for-time-series-data-part-one-a8f19964f538
 https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+
+
+
+
+
+
+https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+https://www.vinta.com.br/blog/2018/understanding-time-series-forecasting-python/
+https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
+https://nlpforhackers.io/topic-modeling/
