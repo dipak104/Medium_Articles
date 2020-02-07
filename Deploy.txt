@@ -1,0 +1,3 @@
+https://www.udemy.com/course/deployment-of-machine-learning-models/
+https://www.udemy.com/course/deploy-data-science-nlp-models-with-docker-containers/
+https://www.udemy.com/course/sagemaker/
