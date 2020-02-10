@@ -4,10 +4,6 @@ https://medium.com/schkn/why-use-k-means-for-time-series-data-part-one-a8f19964f
 https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
 
 
-
-
-
-
 https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
 https://www.vinta.com.br/blog/2018/understanding-time-series-forecasting-python/
 https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
@@ -26,3 +22,6 @@ https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-
 https://towardsdatascience.com/how-to-forecast-sales-with-python-using-sarima-model-ba600992fa7d
 https://towardsdatascience.com/is-random-forest-better-than-logistic-regression-a-comparison-7a0f068963e4
 https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
+
+
+https://github.com/bgweber/StartupDataScience/blob/master/EDA/PySpark_NHL.ipynb
