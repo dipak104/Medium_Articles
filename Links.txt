@@ -25,7 +25,7 @@ https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
 
 
 https://github.com/bgweber/StartupDataScience/blob/master/EDA/PySpark_NHL.ipynb
-
+https://towardsdatascience.com/building-a-real-time-prediction-pipeline-using-spark-structured-streaming-and-microservices-626dc20899eb
 
 
 
